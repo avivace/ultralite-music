@@ -1,0 +1,19 @@
+--File creato automaticamente da Miro LUA
+visualizza_titolo = 1
+visualizza_album = 1
+visualizza_artista = 1
+barra_di_avanzamento = 1
+md5_info = 0
+visualizza_eq = 1
+visualizza_percent_canzone = 1
+carattere_eq = "|"
+directory_inziale = "ms0:/MUSIC"
+bianco = white
+velocita_cpu_in_browse_mp3 = 333
+velocita_cpu_in_home = 333
+white = bianco
+white = Color.new(255,255,255)
+red = Color.new(255,0,0)
+blue = Color.new(0,0,255)
+giallo = Color.new(255, 255, 0)
+rosso = Color.new(255,0,0) 
